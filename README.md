@@ -1,5 +1,5 @@
 # hexchat-imagepaste
-A hexchat plugin (lua) for uploading images to img.lee.io from clipboard. Uses https://github.com/Lee303/imageuploader
+A (Windows) hexchat plugin for uploading images to img.lee.io from clipboard. Uses https://github.com/Lee303/imageuploader
 
 ### Installation
 
