@@ -3,7 +3,6 @@
 hexchat.register("img.lee.io plugin", "0.1", "An horrendous plugin to upload images from the clipboard to img.lee.io")
 
 local function img(data)
-    -- if in doubt, shell out
     local p = io.popen("ImageUploader.exe")
     local std_out = p:read('*l')
     p:close()
